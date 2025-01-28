@@ -21,8 +21,9 @@
 
 #### **Some food I've made:**
 
-![Image 1](https://github.com/Dennis3204/CPE-322/blob/8de0a4c4bacca2252edca1c33a174ed2862a6038/img/IMG_2959.JPG)
-![Image 2](https://github.com/Dennis3204/CPE-322/blob/8de0a4c4bacca2252edca1c33a174ed2862a6038/img/IMG_2966.JPG)
-![Image 3](https://github.com/Dennis3204/CPE-322/blob/8de0a4c4bacca2252edca1c33a174ed2862a6038/img/IMG_7810.jpg)
+<img src="https://github.com/Dennis3204/CPE-322/blob/8de0a4c4bacca2252edca1c33a174ed2862a6038/img/IMG_2959.JPG" alt="Image 1" width="300">
+<img src="https://github.com/Dennis3204/CPE-322/blob/8de0a4c4bacca2252edca1c33a174ed2862a6038/img/IMG_2966.JPG" alt="Image 2" width="300">
+<img src="https://github.com/Dennis3204/CPE-322/blob/8de0a4c4bacca2252edca1c33a174ed2862a6038/img/IMG_7810.jpg" alt="Image 3" width="300">
+
 
 #### Here is my Team Project Site: [here](URL) (Work In Progress)
