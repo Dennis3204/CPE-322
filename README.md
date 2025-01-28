@@ -3,7 +3,7 @@
 
 ## **Dennis Ren**
 
-> #### print(Hey, I'm Dennis! I'm super excited to learn new skills from this class.)
+> #### print("Hey, I'm Dennis! I'm super excited to learn new skills from this class.")
 
 #### **The topics I'm excited about:**
 
