@@ -28,3 +28,5 @@
 </div>
 
 #### Here is my Team Project Site: [here](https://sites.google.com/stevens.edu/dennis-ren-and-dritan-xhelilaj?usp=sharing) (*Work In Progress*)
+
+### For my team project, I would like a raspberry pi. Thank you!
