@@ -16,4 +16,5 @@
 
 
 ##Summary 
-n this lab, I gained experience working with GHDL and GTKWave, which are essential tools for digital circuit simulation and analysis. GHDL serves as a VHDL compiler that converts hardware descriptions into executable code, enabling simulation of digital designs. GTKWave complements this by providing a graphical interface to inspect and analyze signal waveforms, making it easier to debug and understand circuit behavior.
+
+In this lab, I gained experience working with GHDL and GTKWave, which are essential tools for digital circuit simulation and analysis. GHDL serves as a VHDL compiler that converts hardware descriptions into executable code, enabling simulation of digital designs. GTKWave complements this by providing a graphical interface to inspect and analyze signal waveforms, making it easier to debug and understand circuit behavior.
