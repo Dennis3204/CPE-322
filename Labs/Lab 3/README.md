@@ -1,4 +1,4 @@
-#CPE 322 - Lab 3
+# CPE 322 - Lab 3
 
 ## Instructions 
 Install required Python packages such as jdcal, astral, and geopy. Execute the following code: <br>
@@ -14,7 +14,7 @@ Install required python packages.
 
 ## cd ~/iot and ## cd *3
 
-Go to Lab directory
+Go to Lab directory <br>
 ![Screenshot: ](https://github.com/Dennis3204/CPE-322/blob/main/Labs/Lab%203/cdLab3.png)
 
 ---
